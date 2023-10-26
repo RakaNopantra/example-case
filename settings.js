@@ -10,11 +10,11 @@ global.APIKeys = {
 	'https://api.zeeoneofc.my.id': 'Your Key',
 }
 
-global.namabot = "Bot Store"
-global.namaowner = "Zeeoneofc"
-global.packname = namabot
-global.author = namaowner
-global.myweb = "https://s.id/zeeoneofc"
+global.namabot = " Miaw Bot"
+global.namaowner = "MI4WS.X"
+global.packname = MI4WS.X
+global.author = MI4WS.X
+global.myweb = "https://instagram.com/rakanopantaraa"
 global.footer_text = "© " + namabot
 global.pp_bot = fs.readFileSync("./image/foto.jpg")
 global.qris = fs.readFileSync("./image/qris.jpg")
