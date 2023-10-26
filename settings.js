@@ -12,13 +12,13 @@ global.APIKeys = {
 
 global.namabot = " Miaw Bot"
 global.namaowner = "MI4WS.X"
-global.packname = MI4WS.X
-global.author = MI4WS.X
+global.packname = MI4WSX
+global.author = MI4WSX
 global.myweb = "https://instagram.com/rakanopantaraa"
 global.footer_text = "© " + namabot
 global.pp_bot = fs.readFileSync("./image/foto.jpg")
 global.qris = fs.readFileSync("./image/qris.jpg")
-global.owner = ['62887435047326']
+global.owner = ['6288211090997']
 global.pairingNumber = "" //pairing number to install bot 
 global.sessionName = 'session'
 global.background = "https://telegra.ph/file/40342e0085d521cb8b907.jpg" //maks size 50kb agar welcome nya gk lemot
