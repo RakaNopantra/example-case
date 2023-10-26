@@ -11,9 +11,9 @@ global.APIKeys = {
 }
 
 global.namabot = " Miaw Bot"
-global.namaowner = "MI4WS.X"
-global.packname = MI4WSX
-global.author = MI4WSX
+global.namaowner = "MI4WSX"
+global.packname = namabot
+global.author = namaowner
 global.myweb = "https://instagram.com/rakanopantaraa"
 global.footer_text = "© " + namabot
 global.pp_bot = fs.readFileSync("./image/foto.jpg")
